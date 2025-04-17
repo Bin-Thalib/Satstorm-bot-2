@@ -1,0 +1,4 @@
+satstorm_bot/
+├── main.py
+├── requirements.txt
+├── .env.example
